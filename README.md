@@ -20,6 +20,18 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Features:
+
+Real-time Chat: Experience instant messaging with friends and groups, ensuring smooth and uninterrupted conversations.
+
+User Profiles: Create and customize profiles, manage friends, and track online status with ease.
+
+Server Management: Set up and manage servers, channels, and permissions, ensuring organized and secure communication spaces.
+
+Notifications: Stay updated with push notifications for messages, mentions, and server activities.
+
+Multimedia Support: Share images, videos, and files seamlessly within chats, enhancing the communication experience.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
@@ -29,13 +41,13 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Deployed on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-Contribution:
+## Contribution:
 
 Contributions to ClueNet are welcome! Whether it's bug fixes, feature enhancements, or documentation improvements, feel free to submit pull requests or open issues on the GitHub repository.
 
